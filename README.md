@@ -1,4 +1,4 @@
-# AI-Powered Sustainability Tool
+# AI-Powered Sustainability Dashboard
 
 ## Description
 The AI-Powered Sustainability Dashboard is a cutting-edge tool designed to revolutionize how organizations manage and report their sustainability efforts. This React-based application integrates advanced AI capabilities with comprehensive sustainability metrics to provide real-time insights, predictive analytics, and actionable recommendations. By combining environmental data with financial impacts and stakeholder sentiment, this dashboard offers a holistic view of an organization's sustainability performance.
