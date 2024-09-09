@@ -59,8 +59,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 For questions, feedback, or support, please contact:
 
 Your Name
-Email: your.email@example.com
-GitHub: [@yourusername](https://github.com/yourusername)
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+Email: almujtbaizz98@outlook.com
+GitHub: [@yourusername](https://github.com/DSMujtba)
+LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/almujtba-suliman/?trk=li_LOL_DA_global_careers_jobsgtm_otwGeneral_res_Sep2023_dav5))
 
 We appreciate your interest in the AI-Powered Sustainability Dashboard and look forward to your contributions!
