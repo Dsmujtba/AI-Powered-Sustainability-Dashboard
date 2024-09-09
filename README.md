@@ -60,7 +60,7 @@ For questions, feedback, or support, please contact:
 
 Your Name
 Email: almujtbaizz98@outlook.com
-GitHub: [@yourusername](https://github.com/DSMujtba)
-LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/almujtba-suliman/?trk=li_LOL_DA_global_careers_jobsgtm_otwGeneral_res_Sep2023_dav5))
+GitHub: (https://github.com/DSMujtba)
+LinkedIn: ([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/almujtba-suliman/?trk=li_LOL_DA_global_careers_jobsgtm_otwGeneral_res_Sep2023_dav5))
 
 We appreciate your interest in the AI-Powered Sustainability Dashboard and look forward to your contributions!
